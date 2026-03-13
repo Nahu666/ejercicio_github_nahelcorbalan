@@ -1,3 +1,5 @@
 Antes era un aventurero como tú, pero un día me dieron un flechazo en la rodilla.
 Desde entonces trabajo sentado pero a largo plazo molesta.
 ¿Me regalas tu rodilla?
+
+["dialogoNPC-SI"]
